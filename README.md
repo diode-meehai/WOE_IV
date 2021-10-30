@@ -1,5 +1,5 @@
 # WOE_IV
-WOE and IV Credit scoring
+WOE and IV ( Credit scoring )
 
 เรียนเพิ่มเติมได้ที่ futureskill
 
