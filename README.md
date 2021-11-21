@@ -8,4 +8,4 @@ https://futureskill.co/course/purchase/วิเคราะห์และพ�
 ข้อมูลเพิ่มเติม
 https://youtu.be/AViNMAKrJng
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AViNMAKrJng/0.jpg)](https://www.youtube.com/watch?v=-HBkA0n2fcY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AViNMAKrJng/0.jpg)](https://www.youtube.com/watch?v=AViNMAKrJng)
